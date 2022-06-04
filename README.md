@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
+  
+<p align="center">
+<a href="https://www.buymeacoffee.com/bddesai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
     <a href="https://www.linkedin.com/in/bddesai89/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -34,7 +38,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
@@ -68,7 +71,10 @@
 </div>
 
 ---
-
+<center>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bddesai&theme=dark)](https://git.io/streak-stats)
+</center>
 
+<center>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bddesai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</center>
