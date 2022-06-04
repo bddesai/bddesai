@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <h1>Keep Calm and Code</h1>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
+  <br>
+  <br>
   <div id="badges">
 <p>
     <a href="https://www.buymeacoffee.com/bddesai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
@@ -16,10 +18,9 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=bddesai&style=flat-square&color=blueviolet" alt=""/>
 </div>
-<br>
-<br>
 </div>
 
 ---
