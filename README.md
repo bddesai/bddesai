@@ -72,10 +72,6 @@
 
 ---
 
-<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bddesai&theme=dark)](https://git.io/streak-stats)
-</p>
 
-<p align="center">
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bddesai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
