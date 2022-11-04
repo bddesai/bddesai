@@ -8,14 +8,14 @@
     <a href="https://www.buymeacoffee.com/bddesai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
     <a href="https://www.linkedin.com/in/bddesai89/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" alt="LinkedIn Badge"/>
     </a>
 <!--    <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     -->
     <a href="https://twitter.com/bddesai">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noopener noreferrer" alt="Twitter Badge"/>
     </a>
   </div>
   <br>
