@@ -28,7 +28,7 @@
 ### Hi there 👋
 
 - 📱 I’m a Mobile Developer specializing in Android technologies
-- 🌱 I’m currently learning Blockchain technologies
+- 🌱 I’m currently learning Android AOSP 
 - 👨🏻‍💻 I wander on YouTube, Udemy and Coursera to build new skills
 
 
