@@ -1,77 +1,43 @@
-<div id="header" align="center">
-  <h1>Keep Calm and Code</h1>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
-  <br>
-  <br>
-  <div id="badges">
-<!-- <p>
-    <a href="https://www.buymeacoffee.com/bddesai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p> -->
-    <a href="https://www.linkedin.com/in/bddesai89/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer" alt="LinkedIn Badge"/>
-    </a>
-<!--    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    -->
-    <a href="https://twitter.com/bddesai">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noopener noreferrer" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=bddesai&style=flat-square&color=blueviolet" alt=""/>
+# Hi there, I'm Bhavin Desai! 👋
+
+### Senior Android Engineer & Software Architect
+
+I’m a passionate full-stack Android engineer and tech professional with a strong background in building robust, scalable applications across the banking, insurance, healthcare, retail, and automotive sectors. 
+
+---
+
+### 🚀 What I Do
+- **Mobile Architecture:** Architecting features end-to-end using MVVM with Clean Architecture, enforcing strict separation of concerns across data, domain, and presentation layers.
+- **Embedded & AOSP Systems:** Working on custom Android AOSP ecosystems (such as Ford's next-gen infotainment systems, e.g., Lincoln Nautilus), handling in-tree Soong build systems, out-of-tree Gradle widgets, and SELinux policies.
+- **Cross-Platform & Core Tech:** Extensive hands-on expertise with Kotlin, Coroutines, Java, Flutter/Dart, and native Android components.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Kotlin, Java, Python, Dart, SQL
+- **Mobile & Frameworks:** Android SDK, AOSP, Jetpack Compose, MVVM, Clean Architecture, Flutter
+- **Build Systems & Tools:** Gradle, Soong, Git, CI/CD pipelines
+- **Domain Knowledge:** Banking, Insurance, Healthcare, Automotive Infotainment, FinTech,  IoT
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bddesai&show_icons=true&theme=radical&hide_border=true&bg_color=20,23,30" alt="Bhavin's GitHub Stats" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bddesai&layout=compact&theme=radical&hide_border=true&bg_color=20,23,30" alt="Top Languages" />
 </div>
 
 ---
 
-### Hi there 👋
+### 🌐 Connect with Me
 
-- 📱 I’m a Mobile Developer specializing in Android technologies
-- 🌱 I’m currently learning Android AOSP 
-- 👨🏻‍💻 I wander on YouTube, Udemy and Coursera to build new skills
+- **Portfolio / Website:** [bddesai.com](https://www.bddesai.com/home)
+- **LinkedIn:** [linkedin.com/in/bddesai89](https://www.linkedin.com/in/bddesai89/)
+- **Superprof:** [Programming Tutoring](https://www.superprof.co.uk/android-development-professional-years-experience-teaching-programming-languages-like-java-kotlin-python-dart-and-android.html)
 
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-</div>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-</div>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dot Net" alt="Dot Net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-</div>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" title="SourceTree" alt="SourceTree" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bddesai&theme=dark)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bddesai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+> *"Let’s connect over a quick virtual coffee chat to discuss technology, mobile architecture, or product management!"*
