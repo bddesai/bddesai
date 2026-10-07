@@ -22,22 +22,9 @@ I’m a passionate full-stack Android engineer and tech professional with a stro
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bddesai&show_icons=true&theme=radical&hide_border=true&bg_color=20,23,30" alt="Bhavin's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bddesai&layout=compact&theme=radical&hide_border=true&bg_color=20,23,30" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 - **Portfolio / Website:** [bddesai.com](https://www.bddesai.com/home)
 - **LinkedIn:** [linkedin.com/in/bddesai89](https://www.linkedin.com/in/bddesai89/)
-- **Superprof:** [Programming Tutoring](https://www.superprof.co.uk/android-development-professional-years-experience-teaching-programming-languages-like-java-kotlin-python-dart-and-android.html)
 
 > *"Let’s connect over a quick virtual coffee chat to discuss technology, mobile architecture, or product management!"*
